@@ -1,6 +1,6 @@
 # Greet
 
-A tiny Python utility that lets you recieve a friendly greeting.
+A tiny Python utility that lets you receive a friendly greeting.
 
 ## Usage
 
